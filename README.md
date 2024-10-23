@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremiah! <h5>I'm a 4th year cybersecurity student at Andrews University. Below are some projects demonstrating my passion in the field of cybersecurity. These also reflect my curiosity and continued commitment to learn and grow in understanding of security in information technology.</h5>
+<h1>Hi, I'm Jeremiah! <h5>I'm a 4th year cybersecurity student at Andrews University. Below are some projects demonstrating my passion in the field of cybersecurity. These also reflect my curiosity and continued commitment to learn and grow in the understanding of security in information technology.</h5>
 </h1>
 
 <!--
