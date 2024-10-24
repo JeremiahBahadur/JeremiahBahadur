@@ -23,6 +23,7 @@
 <h2>🐧 Security Strategies in Linux Platforms and Applications</h2>
 
 - [Installing a Core Linux OS on a server](https://github.com/JeremiahBahadur/CoreLinuxOS)
+- [Configuring Basic Security Controls on a CentOS Linux Server](https://github.com/JeremiahBahadur/Security-Controls)
 
 <h2> 🎓 My Certifications</h2>
 
