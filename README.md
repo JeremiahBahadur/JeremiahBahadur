@@ -11,6 +11,7 @@
 - [Installing a Core Linux OS on a server](https://github.com/JeremiahBahadur/CoreLinuxOS)
 - [Configuring Basic Security Controls on a CentOS Linux Server](https://github.com/JeremiahBahadur/Security-Controls)
 - [Hardening Security with User Account Management and Security Controls](https://github.com/JeremiahBahadur/Hardening-Security)
+- [Applying Hardened Linux Filesystem Security Controls](https://github.com/JeremiahBahadur/Hardened-Linux-Filesystem/blob/main/README.md)
 
 <h2> 🎓 My Certifications</h2>
 
